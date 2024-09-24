@@ -20,3 +20,9 @@ nav a
     font-weight: bold;
     padding: 10px 15px;
 }
+.logo
+{
+    margin: auto;
+    width: 70px;
+    text-align: center;
+}
