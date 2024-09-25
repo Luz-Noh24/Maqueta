@@ -113,3 +113,40 @@ h2
     max-width: 200px;
     height: 200px;
 }
+.cuadros a
+{
+    text-decoration: none;
+    border: 1px solid #cccccc00;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #000;
+    background-color: #CCCCCC;
+    transition: .2s;
+}
+.cuadros a:hover
+{
+    color: #ffffff;
+    background-color: #000000;
+    box-shadow: 5px 5px 5px -3px rgb(85, 85, 85);
+}
+footer
+{
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1100px;
+    padding: 20px;
+    border-top: 10px solid #CCCCCC;
+    border-bottom:10px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+}
+.dis
+{
+    font-size: 30px;
+    color: #000;
+    padding-right: 30px;
+}
+.dis a:hover
+{
+    color: #a19999;
+}
